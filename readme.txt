@@ -4,7 +4,7 @@ Plugin URI: http://jaspreetchahal.org/
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MHMQ6E37TYW3N
 Tags: Hide content, hide part of post, Facebook like, Google plus one, Google +1, like to unlock, lock content, Facebook App
 Requires at least: 3.3.0
-Tested up to: 3.5.1
+Tested up to: 4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Stable tag: 1.1
